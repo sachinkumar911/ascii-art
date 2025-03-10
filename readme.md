@@ -893,13 +893,6 @@ Features 🎉 Supports a variety of fonts, including standard fonts, decorative 
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/selamanse">
-            <img src="https://avatars.githubusercontent.com/u/3129224?v=4" width="70;" alt="selamanse"/>
-            <br />
-            <sub><b>selamanse</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/weshaan">
             <img src="https://avatars.githubusercontent.com/u/118920744?v=4" width="70;" alt="weshaan"/>
             <br />
